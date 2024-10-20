@@ -1,9 +1,11 @@
-def more_hello():
-    return "hi"
+def add(x,y):
+    return int(x + y)
+
+print(add(1,1))
 
 
-def more_goodbye():
-    return "bye"
+# def more_goodbye():
+#     return "bye"
 
 
 # Bu mantıklı bir kod olmadığı için uyarı yaratır
